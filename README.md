@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,scss,react,nodejs,nextjs,redux,spring,tailwind,mui,mysql,mongodb,aws,firebase)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vy3004&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vy3004&theme=radical&show_icons=true&rank_icon=github)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vy3004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vy3004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
